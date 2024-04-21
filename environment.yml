@@ -6,8 +6,4 @@ dependencies:
   - xeus-python
   - ipycanvas
   - matplotlib
-  - ipywidgets
-  - networkx
-  - pandas
-  - plotly
-  - pyvis
+
