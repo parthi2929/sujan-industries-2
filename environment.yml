@@ -5,3 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - ipywidgets
+  - networkx
+  - pandas
+  - plotly
+  - pyvis
